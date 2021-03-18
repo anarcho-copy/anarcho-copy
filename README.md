@@ -12,7 +12,7 @@ Bilginin mülkiyetini redden; aynı zamanda onun evrensel bir deneyim olduğunu 
 <li><a href="https://edu.anarcho-copy.org/">edu.anarcho-copy.org</a> | Open Directory Data Archive for Computer Science and Its Philosophy</li>
 <li><a href="http://edu.anarcho-copy.org/T%c3%bcrk%c3%a7e%20-%20Turkish/">edu.anarcho-copy.org/Türkçe</a> | Bilgisayar Bilimleri ve Felsefesine Yönelik Açık Dizin Arşivi</li>
 <li><a href="https://build.anarcho-copy.org/">build.anarcho-copy.org</a> | Anarcho-Copy Deneysel</li>
-<li><a href="https://status.noblogs.org">status.noblogs.org</a>Anarcho-Copy Status</li>
+<li><a href="https://status.noblogs.org">status.noblogs.org</a>| Anarcho-Copy Status</li>
 <li><a href="https://git.anarcho-copy.org/">git.anarcho-copy.org</a> | Git.Anarcho-Copy</li>
 <li><a href="https://haber.anarcho-copy.org">haber.anarcho-copy.org</a> | Haberler ve Duyurular</li>
 <li><a href="https://ananarchistfaq.anarcho-copy.org/">ananarchistfaq.anarcho-copy.org</a> | An Anarchist Faq Live Mirror</li>
