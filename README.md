@@ -2,7 +2,7 @@
 
 ### Anarcho-Copy nedir?
 
-Bilginin mülkiyetini redden; aynı zamanda onun evrensel bir deneyim olduğunu düşünen, bu sebeple imkanları yettiği ölçüde bilgiye erişimde olan engelleri hepimiz için aşan, bununla birlikte ağın(www) radikal bir şekilde dönüşümünden bahsederek kendini internet ortamında var eden, anarşist bir korsan kolektifidir.
+Bilginin mülkiyetini reddeden; aynı zamanda onun evrensel bir deneyim olduğunu düşünen, bu sebeple imkanları yettiği ölçüde bilgiye erişimde olan engelleri hepimiz için aşan, bununla birlikte ağın(www) radikal bir şekilde dönüşümünden bahsederek kendini internet ortamında var eden, anarşist bir korsan kolektifidir.
 
  - Şimdilik öncelikli çalışma alanı anarşist ve özgürlükçü yayımlardır.
  - Kapitalizmi sürdüren ürünler çalışma alanı değildir.
